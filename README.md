@@ -1,5 +1,5 @@
-# 💫 About Me:
-Manoj here <br>
+# 💫 Manoj Here
+
 🔭 currently working as an Intern at Meltwater<br><br>🌱 currently learning MEAN Stack<br><br> Selenophile
 
 
